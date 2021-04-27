@@ -16,4 +16,4 @@ Simply browser to http://127.0.0.1:8080 to run the file in /www ( index.cfm by d
 
 You can live edit locally and just hit refresh.
 
-Original Solution from: https://coldfusion.adobe.com/2018/12/converting-xml-json-using-xmltransform/
+Original Solution from: https://gamesover2600.tumblr.com/post/180776378949/convert-xml-to-json-in-1-line-of-code-using
