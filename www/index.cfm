@@ -2,6 +2,7 @@
     
     myxml_raw = fileRead(expandPath('cd_catalog.xml'));
 
+    //mega complicated xml file
     url_xml = "https://www.omg.org/spec/CWM/20020501/02-05-01.xml"
 
     //Comment this out to show the read from disk example.
