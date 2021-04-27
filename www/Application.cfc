@@ -14,7 +14,7 @@ component {
 			database	= "postgres",
 			username	= server.system.environment.DB_USER,
 			password	= server.system.environment.DB_PASS
-		},
+		}
 	};
 
 	this.datasource = "pg";
